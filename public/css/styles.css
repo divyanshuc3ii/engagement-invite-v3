@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Playfair+Display:wght@400;700&display=swap');
+
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+.font-great-vibes {
+    font-family: 'Great Vibes', cursive;
+}
+
+.countdown-box {
+    background: #f3f3f3;
+    padding: 20px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #d63384;
+}
